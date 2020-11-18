@@ -4,5 +4,6 @@
 
     $plantilla = new vistas_Controlador();
     $plantilla->obtener_plantilla_controlador();
-
+// testatom
+  echo "panchojoto";
 ?>
